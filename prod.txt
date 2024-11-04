@@ -21,3 +21,5 @@ step 5: ls
 --> git add filename.txt
 
 --> git add .
+
+--> 1finisheddddd
